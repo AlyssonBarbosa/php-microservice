@@ -1,0 +1,3 @@
+[submodule "account-php-ms"]
+	path = account-php-ms
+	url = https://github.com/AlyssonBarbosa/account-php-ms.git
